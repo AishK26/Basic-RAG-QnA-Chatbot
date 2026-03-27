@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+faiss-cpu
+chromadb
+pypdf
+bs4
+sentence-transformers
+python-dotenv
+langchain-huggingface
+import-ipynb
+pymupdf
+tinyllama
