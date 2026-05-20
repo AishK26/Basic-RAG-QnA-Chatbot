@@ -12,3 +12,11 @@ langchain-huggingface
 import-ipynb
 pymupdf
 tinyllama
+
+
+fastapi
+uvicorn
+langchain
+python-multipart
+ollama
+

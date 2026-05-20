@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymupdf
+sentence-transformers
+chromadb
+rank-bm25
+ollama
+python-multipart
